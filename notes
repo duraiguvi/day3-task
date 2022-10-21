@@ -1,0 +1,10 @@
+
+The window is the actual global object. The screen is the screen, it contains properties about the user's display.
+ The document is where the DOM is. document can also be window.
+
+ The window object represents the browser window. The document object represents the HTML document loaded in that window. 
+ The window object has many useful properties like the location object and the setTimeout function.
+
+ screen. The Window property screen returns a reference to the screen object associated with the window. 
+ The screen object, implementing the Screen interface, is a special object for inspecting properties of the screen 
+ on which the current window is being rendered.
